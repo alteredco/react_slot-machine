@@ -8,7 +8,7 @@ class App extends React.Component {
 
     return (
     <div>
-      <h1>SLOT MACHINE</h1>
+      <h1 className="Slot__title">SLOT MACHINE</h1>
       <Slot 
       fruit1 = {fruit1}
       fruit2 = {fruit2}
